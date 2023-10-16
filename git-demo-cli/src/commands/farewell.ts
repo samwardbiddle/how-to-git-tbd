@@ -1,5 +1,9 @@
 import {Args, Command, Flags} from '@oclif/core'
 
+/**
+ * This is a farewell command
+ * It returns a farewell message when executed
+ */
 export default class Farewell extends Command {
   static description = 'describe the command here'
 
