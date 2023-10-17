@@ -4,7 +4,7 @@ In this tutorial I will show you the simplest method for managing your software 
 
 ## What is TBD?
 
-TBD is very simple. You have a production, or (hopefully) stable, branch called `main`. This is your source of truth. Any code on the `main` branch is ready for production. In fact, you shouldn't even be able to deploy things to this branch unless they pass all the tests you have written. More on that in later videos, but for now stick with me. The development workflow for TBD involves creating branches all off of a single trunk.
+TBD is very simple, as long as you have some practice. You have a production, or (hopefully) stable, branch called `main`. This is your source of truth. Any code on the `main` branch is ready for production. In fact, you shouldn't even be able to deploy things to this branch unless they pass all the tests you have written. More on that in later videos, but for now stick with me. The development workflow for TBD involves creating branches all off of a single trunk.
 
 This is what the process looks like for the tree trunk:
 
