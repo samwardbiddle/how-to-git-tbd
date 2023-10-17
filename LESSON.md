@@ -9,6 +9,9 @@ TBD is very simple, as long as you have some practice. You have a production, or
 This is what the process looks like for the tree trunk:
 
 ```mermaid
+---
+title: TBD Git Graph
+---
 %%{init: {'theme':'dark', 'themeVariables': { 'nodeSpacing': 150, 'nodeRadius': 10}}}%%
 gitGraph:
 options
@@ -36,8 +39,12 @@ commit id: "latest commit"
 Sticking with this analogy here is the workflow you or any other developer on your team would use:
 
 ```mermaid
-
+---
+title: TBD Workflow
+---
 %%{init: {'theme':'dark', 'themeVariables': { 'nodeBorder': '2px solid #444'}}}%%
+
+
 graph LR
     style A fill:#333,stroke:#FF9F1C,stroke-width:3px;
     style B fill:#333,stroke:#F4D35E,stroke-width:3px;
