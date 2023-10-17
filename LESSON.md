@@ -71,6 +71,8 @@ H --> B
 
 ```
 
+The chart above is a simple git graph that shows the commit structure. Real commit processes may be more complicated.
+
 ### 0/ Clone the repository
 
 ```sh
